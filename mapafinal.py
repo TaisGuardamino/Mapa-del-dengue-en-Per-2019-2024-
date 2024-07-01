@@ -5,7 +5,7 @@ import streamlit as st
 from streamlit_folium import folium_static
 
 # Especifica las rutas de tus archivos
-ruta_csv = '/Users/tais/Downloads/dengue.csv'
+ruta_csv = 'dengue.csv'
 ruta_geojson = '/Users/tais/Downloads/peru_departamental_simple.geojson'
 
 # Lee el archivo CSV en un DataFrame
