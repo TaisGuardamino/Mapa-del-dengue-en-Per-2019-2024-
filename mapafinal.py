@@ -86,7 +86,7 @@ def crear_mapa(año):
     return mapa
 
 # Título de la aplicación
-st.title('Mapa de Densidad Poblacional de Perú')
+st.title('Mapa de Densidad Poblacional de los casos de dengue en Perú (2019 - 2024)')
 
 # Subtítulo que advierte sobre la fecha de corte en los datos del año 2024
 st.subheader('Importante: El año 2024 cuenta con datos registrados hasta la semana epidemiológica 10.')
