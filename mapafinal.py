@@ -75,7 +75,7 @@ def crear_mapa(año):
     leyenda = folium.Marker(
         location=[-12.0464, -77.0428],  # Ajusta esta ubicación si es necesario
         icon=folium.DivIcon(
-            icon_size=(70, 180),
+            icon_size=(700, 250),
             icon_anchor=(0, 0),
             html=html_leyenda,
         )
